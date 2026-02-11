@@ -51,7 +51,7 @@ button {
     cursor: pointer;
 }
 
-/* button:hover {
+button:hover {
     background-color: #444444;
 }
 
@@ -75,4 +75,4 @@ button[onclick*="-"],
 button[onclick*="+"] {
     background-color: #febc2e;
     color: #000;
-} */
+}
