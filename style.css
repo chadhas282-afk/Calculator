@@ -1,4 +1,4 @@
-/* body {
+body {
     background-color: #121212;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
@@ -8,7 +8,7 @@
     margin: 0;
 }
 
-h1 {
+/* h1 {
     display: none;
 }
 
