@@ -1,7 +1,3 @@
-This looks like a sleek, modern calculator web application! Based on the code provided, here is a professional and clear `README.md` file you can use for your GitHub repository.
-
----
-
 # Modern Web Calculator
 
 A clean, responsive, and minimalist calculator web application built with HTML, CSS, and JavaScript. This project features a dark-themed UI inspired by modern operating systems and provides essential arithmetic functionality.
@@ -38,7 +34,7 @@ A clean, responsive, and minimalist calculator web application built with HTML, 
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/chadhas282-afk/Calculator.git
 
 ```
 
