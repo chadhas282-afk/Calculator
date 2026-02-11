@@ -1,11 +1,11 @@
-// function appendToDisplay(value) {
-//     const display = document.getElementById('display');
-//     if (display.value === 'Error') {
-//         display.value = value;
-//     } else {
-//         display.value += value;
-//     }
-// }
+function appendToDisplay(value) {
+    const display = document.getElementById('display');
+    if (display.value === 'Error') {
+        display.value = value;
+    } else {
+        display.value += value;
+    }
+}
 
 // function clearDisplay() {
 //     document.getElementById('display').value = '';
